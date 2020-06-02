@@ -9,7 +9,7 @@
     "size": "npm run build && size-limit"
   },
   "devDependencies": {
-    "@ampproject/rollup-plugin-closure-compiler": "^0.18.1",
+    "@ampproject/rollup-plugin-closure-compiler": "^0.26.0",
     "@babel/core": "^7.7.7",
     "@babel/preset-env": "^7.7.7",
     "@size-limit/preset-app": "^2.2.4",
